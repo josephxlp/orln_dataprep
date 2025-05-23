@@ -1,4 +1,6 @@
 meta/*
+log_ornl/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
